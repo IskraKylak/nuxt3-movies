@@ -9,7 +9,6 @@
         <p class="text-m text-gray-500 break-words text-wrap truncate overflow-hidden px-2">
             {{ movie?.overview }}
         </p>
-        <!--  -->
     </div>
 </template>
 
